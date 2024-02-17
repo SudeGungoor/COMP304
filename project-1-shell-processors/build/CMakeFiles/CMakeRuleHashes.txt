@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+d47447bea29e46c471107003b437e2ae module/CMakeFiles/mymodule
+7dbffd9d7813bd01c2b20649b46cf213 module/mymodule.ko

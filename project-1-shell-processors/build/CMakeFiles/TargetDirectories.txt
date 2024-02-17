@@ -1,0 +1,6 @@
+/home/sude/Desktop/304/project-1-shell-processors/build/CMakeFiles/shellect.dir
+/home/sude/Desktop/304/project-1-shell-processors/build/CMakeFiles/edit_cache.dir
+/home/sude/Desktop/304/project-1-shell-processors/build/CMakeFiles/rebuild_cache.dir
+/home/sude/Desktop/304/project-1-shell-processors/build/module/CMakeFiles/mymodule.dir
+/home/sude/Desktop/304/project-1-shell-processors/build/module/CMakeFiles/edit_cache.dir
+/home/sude/Desktop/304/project-1-shell-processors/build/module/CMakeFiles/rebuild_cache.dir
